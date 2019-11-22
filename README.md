@@ -1,2 +1,1 @@
-# boems
-BOEMS: Bayesian optimization for evolutionary model search
+# Bayesian optimization for evolutionary model search (BOEMS)
